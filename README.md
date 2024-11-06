@@ -1,4 +1,4 @@
-# 𝘽𝙔𝙋𝘼𝙕𝙕𝙍 ![image](https://github.com/user-attachments/assets/3c7c62c8-e741-418b-924f-bdd72a63bb73)
+![image](https://github.com/user-attachments/assets/3c7c62c8-e741-418b-924f-bdd72a63bb73)
 
 
 # ABOUT
