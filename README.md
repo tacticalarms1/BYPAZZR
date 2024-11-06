@@ -9,3 +9,5 @@ https://docs.google.com/document/d/1xy-UAFk-AQYfjeSTuyOzLX3v42Cia_8HbmOd-3gaREc/
 
 # feedback 
 please leave feedback in issues or on the doc it really helps. if you want to helo me find more methods you can aply using yhe google fourm in the doc. i hope you enjoy using bypazzr :3
+
+(i am not responsible for any thing that happenes to you or your computer. this is for edicational pourpuses only
