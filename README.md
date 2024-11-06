@@ -1,4 +1,5 @@
-# 𝘽𝙔𝙋𝘼𝙕𝙕𝙍
+# 𝘽𝙔𝙋𝘼𝙕𝙕𝙍 ![image](https://github.com/user-attachments/assets/3c7c62c8-e741-418b-924f-bdd72a63bb73)
+
 
 # ABOUT
 BYPAZZR is a project by me. It is a collection of all working securly and other school blocker exploits. It is most likely up to date so I recommend taking a look :3 I try my best to keep it up to date and working. It has many different bypasses all tested personally by me. Please tell me any tips or ways to unblock u have thx! :3
