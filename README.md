@@ -6,7 +6,7 @@
 BYPAZZR is a project by me. It is a collection of all working securly and other school blocker exploits. It is most likely up to date so I recommend taking a look :3 I try my best to keep it up to date and working. It has many different bypasses all tested personally by me. Please tell me any tips or ways to unblock u have thx! :3
 
 # GOOGLE DOC
-https://docs.google.com/document/d/1xy-UAFk-AQYfjeSTuyOzLX3v42Cia_8HbmOd-3gaREc/edit
+https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/edit?usp=sharing
 (i constantly update it and will post all working methods with tutorials in there :3)
 
 # feedback 
