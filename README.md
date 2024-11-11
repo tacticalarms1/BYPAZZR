@@ -1,15 +1,7 @@
-![image](https://github.com/user-attachments/assets/3c7c62c8-e741-418b-924f-bdd72a63bb73)
 
-# PLEASE STAR IF YOU LIKED IT AND IT WORKED! AND FOLLOW ME FOR MORE!!! :3
 
-# ABOUT
-BYPAZZR is a project by me aztro. It is a collection of all working securly and other school blocker exploits. It is most likely up to date so I recommend taking a look :3 I try my best to keep it up to date and working. It has many different bypasses all tested personally by me. Please tell me any tips or ways to unblock u have thx! :3
+# THE END...
 
-# GOOGLE DOC
-https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/edit?usp=sharing
-(i constantly update it and will post all working methods with tutorials in there :3)
 
-# feedback 
-please leave feedback in issues or on the doc it really helps. if you want to helo me find more methods you can aply using yhe google fourm in the doc. i hope you enjoy using bypazzr :3
-
-(i am not responsible for any thing that happenes to you or your computer. this is for edicational pourpuses only
+i am very sorry to announce that bypazzr has beem discontinued permanently. bypazz has beem discontinued due to private reasons. i will not be returning bypazzer and i will not be making any more school bypasses right now. i may make other things but for now i am removing bypazzer. im very sorry for this inconvenience and trust me this is not what i wanted but because of these reasons i have too. i hope any and all people who used it while it was here enjoyed it and i hope some day it may return in a different form. thank you all for the support and thank you all for using bypazzr.
+best regards - aztro
