@@ -11,7 +11,6 @@ https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/
 
 
 **BYPASSES**
-
 1. Extension freezer (still works)
 2. Geobra bypass (fix coming soon?)
 3. BYPAZZR Pass (WIP)
@@ -26,25 +25,24 @@ https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/
 11. DOGE UNBLOCKER
 
 **OTHER TOOLS**
-School wifi pass grabber
+1. School wifi pass grabber
 
 **UNBLOCKED SITES *NEW***
 1. ALL UP TO DATE AND WORKING!
 
 
 **GAMES**
-Evil glitch
-Square puzzle
+1. Evil glitch
+2. Square puzzle
 
 **TUTORIALS**
-FORTNITE
+1. FORTNITE
 
 **EXTRA**
-
- Unblocked Websites
-Proxies
-Git hubs
-Extension id’s
+1. Unblocked Websites
+2. Proxies
+3. Git hubs
+4. Extension id’s
 
 
 
