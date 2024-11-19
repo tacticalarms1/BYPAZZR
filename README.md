@@ -5,7 +5,7 @@
  bypazzr is a collection of school blocker bypasses. it is constantly updated and tested by me. my main goal of this project is to give kids internet freedome. thats why i made this. if you do have any issues please do comment on the doc or make an issue here in github. 
 
 # THE DOC
-https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/edit?usp=sharing
+https://docs.google.com/document/d/11PT9roT8YTfLQEFPgCDdrf8IXFqh_XXEjgWcCywXW6c/edit?usp=sharing
 
 # COMPONENTS
 
