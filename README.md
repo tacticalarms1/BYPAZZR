@@ -24,9 +24,6 @@ https://docs.google.com/document/d/11PT9roT8YTfLQEFPgCDdrf8IXFqh_XXEjgWcCywXW6c/
 10. Dextensify (improved)
 11. DOGE UNBLOCKER
 
-**OTHER TOOLS**
-1. School wifi pass grabber
-
 **UNBLOCKED SITES *NEW***
 1. ALL UP TO DATE AND WORKING!
 
