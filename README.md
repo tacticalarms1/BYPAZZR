@@ -9,6 +9,7 @@ https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/
 
 # COMPONENTS
 
+
 **BYPASSES**
 
 1. Extension freezer (still works)
@@ -22,24 +23,30 @@ https://docs.google.com/document/d/1307x-DDgWoPe3K7c8S5_G7UeJcmvbfzgbYotgGziS_Y/
 8. HOLY UNBLOCKER (good) 
 9. RIG TOOLS  (BEST!!) 
 10. Dextensify (improved)
+11. DOGE UNBLOCKER
 
-
-**GAMES**
-
-1.Evil glitch
-2.Square puzzle
+**OTHER TOOLS**
+School wifi pass grabber
 
 **UNBLOCKED SITES *NEW***
 1. ALL UP TO DATE AND WORKING!
 
+
+**GAMES**
+Evil glitch
+Square puzzle
+
 **TUTORIALS**
-1. FORTNITE
+FORTNITE
 
 **EXTRA**
 
-1. Proxies
-2. Git hubs
-3. Extension id’s
+ Unblocked Websites
+Proxies
+Git hubs
+Extension id’s
+
+
 
 
 # OTHER
