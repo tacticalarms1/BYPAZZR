@@ -46,7 +46,10 @@ https://docs.google.com/document/d/11PT9roT8YTfLQEFPgCDdrf8IXFqh_XXEjgWcCywXW6c/
 
 # OTHER
 (for edication only)
-please be responsible with this power. do not leak it to much and do not try to steal it and not credit me i worked so hard on it :( anyways enjoy!
+
+#  CREDIT
+i did not  make like any of these  exploits all i did was collect them test them and put them in a doc and soe times i fix some but  i dont  take credit for these. im working on findind all the ppl and giving  them credit but I WILL SAY THAT  I DO NOT TAKE CRADIT  I JUST  PUT THE WORKING METHODS IN A DOC
+
 
 
  # ⭐MADE BY AZTRO⭐
